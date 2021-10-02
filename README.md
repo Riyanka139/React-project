@@ -1,10 +1,15 @@
 # Details About App
 
 This App Contains some dummy data of user.
+It is class based react app
 * App UI contains 
    * input for saerch name
    * button which use for show and hide user name
    * contaiiner which show user name list.
+
+## Use Of APP
+  * search any item from list
+  * you use as search suggestion
 
 # Getting Started with Create React App
 
