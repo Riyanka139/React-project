@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Expense Mange",
+  "name": "Exoense Manager App - manage your expense",
   "icons": [
     {
       "src": "favicon.ico",
